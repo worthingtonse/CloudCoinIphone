@@ -1,0 +1,90 @@
+{
+  "images": [
+    {
+      "idiom": "universal"
+    },
+    {
+      "filename": "backgroundIcon.png",
+      "scale": "1x",
+      "idiom": "universal"
+    },
+    {
+      "filename": "backgroundIcon@2x.png",
+      "scale": "2x",
+      "idiom": "universal"
+    },
+    {
+      "filename": "backgroundIcon@3x.png",
+      "scale": "3x",
+      "idiom": "universal"
+    },
+    {
+      "idiom": "iphone"
+    },
+    {
+      "filename": "backgroundIcon.png",
+      "scale": "1x",
+      "idiom": "iphone"
+    },
+    {
+      "filename": "backgroundIcon@2x.png",
+      "scale": "2x",
+      "idiom": "iphone"
+    },
+    {
+      "subtype": "retina4",
+      "scale": "2x",
+      "idiom": "iphone"
+    },
+    {
+      "filename": "backgroundIcon@3x.png",
+      "scale": "3x",
+      "idiom": "iphone"
+    },
+    {
+      "idiom": "ipad"
+    },
+    {
+      "filename": "backgroundIcon.png",
+      "scale": "1x",
+      "idiom": "ipad"
+    },
+    {
+      "filename": "backgroundIcon@2x.png",
+      "scale": "2x",
+      "idiom": "ipad"
+    },
+    {
+      "idiom": "watch"
+    },
+    {
+      "scale": "2x",
+      "idiom": "watch"
+    },
+    {
+      "screenWidth": "{130,145}",
+      "scale": "2x",
+      "idiom": "watch"
+    },
+    {
+      "screenWidth": "{146,165}",
+      "scale": "2x",
+      "idiom": "watch"
+    },
+    {
+      "idiom": "mac"
+    },
+    {
+      "scale": "1x",
+      "idiom": "mac"
+    },
+    {
+      "scale": "2x",
+      "idiom": "mac"
+    }
+  ],
+  "info": {
+    "version": 1,
+    "author": "xcode"
+  }
+}

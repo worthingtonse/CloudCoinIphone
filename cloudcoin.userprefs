@@ -1,0 +1,18 @@
+﻿<Properties StartupConfiguration="{B0201218-9230-4528-B47B-9B7D22BB890B}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="cloudcoin/ViewController.cs">
+    <Files>
+      <File FileName="cloudcoin/Main.storyboard" />
+      <File FileName="cloudcoin/Main.cs" Line="9" Column="1" />
+      <File FileName="cloudcoin/ViewController.cs" Line="57" Column="3" />
+      <File FileName="cloudcoin/PopOverViewController.cs" Line="8" Column="55" />
+      <File FileName="cloudcoin/CustomAlerts/BrowseFilesAlertView.cs" Line="8" Column="2" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
+  <MonoDevelop.Ide.ItemProperties.cloudcoin PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.72566B15-B048-4AE1-A171-29FDA5C02088" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
